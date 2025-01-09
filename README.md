@@ -8,10 +8,11 @@ I am a passionate and versatile technology enthusiast with a strong foundation i
 
 ---
 
-### Connect with me:
+### A Bit About Me:
 
-[![Gmail Badge](https://img.shields.io/badge/-degracia.edgarlouis@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:degracia.edgarlouis@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-louis-de-gracia-420592345/)
+- ⚡ Fun Fact: I blend creativity and technical expertise through video editing!
+- ⚙ Interested in: Web Development, Video Editing, and Article Writing
+- 🚀 Always willing to learn new technologies to stay ahead in the ever-evolving tech world.
 
 ---
 
@@ -39,8 +40,7 @@ I am a passionate and versatile technology enthusiast with a strong foundation i
 
 ---
 
-### A Bit About Me:
+### Connect with me:
 
-- ⚡ Fun Fact: I blend creativity and technical expertise through video editing!
-- ⚙ Interested in: Gaming, Anime, TV Shows, Reading, and Listening to music.
-- 🚀 Always willing to learn new technologies to stay ahead in the ever-evolving tech world.
+[![Gmail Badge](https://img.shields.io/badge/-degracia.edgarlouis@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:degracia.edgarlouis@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-louis-de-gracia-420592345/)
