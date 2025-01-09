@@ -1,4 +1,4 @@
-# Hi 👋, I'm Edgar Louis de Gracia
+# Hi 👋, I'm Edgar
 
 ### Digital Craftsman | Developer | Creator
 
