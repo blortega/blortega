@@ -11,7 +11,7 @@ I am a passionate and versatile technology enthusiast with a strong foundation i
 ### Connect with me:
 
 [![Gmail Badge](https://img.shields.io/badge/-blortega3@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:blortega3@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/edgar-louis-de-gracia-420592345/))
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-louis-de-gracia-420592345/)
 
 ---
 
