@@ -50,5 +50,5 @@ I am a passionate and versatile technology enthusiast with a strong foundation i
 ### A Bit About Me:
 
 - ⚡ Fun Fact: I blend creativity and technical expertise through video editing!
-- ⚙ Interested in: Empowering aspiring tech professionals.
-- 🚀 Always learning new technologies to stay ahead in the ever-evolving tech world.
+- ⚙ Interested in: Gaming, Anime, TV Shows, Reading, and Listening to music.
+- 🚀 Always willing to learn new technologies to stay ahead in the ever-evolving tech world.
