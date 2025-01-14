@@ -32,17 +32,17 @@ I am a passionate and versatile technology enthusiast with a strong foundation i
 
 #### Tools for Article Writing:
 <p align="left">
-  <img src="https://images.ctfassets.net/1e6ajr2k4140/7DzmwOpJNp1lDTa8k6skZI/475de3f9ab4e17d7a0644f017f641ba2/Grammarly_Primary_Lockup_Dark_BG.png" alt="Grammarly Logo" width="150" height="40"/>
+  <img src="./assets/grammarly.png" alt="Grammarly Logo" width="150" height="40"/>
 </p>
 
 #### Video Editing:
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/en/e/ef/Filmora_Logo.png" alt="Filmora Logo" width="40" height="40"/>
+  <img src="./assets//logo-filmora.jpg" alt="Filmora Logo" width="150" height="40"/>
 </p>
 
 #### Networking:
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Cisco_Packet_Tracer_Logo.png" alt="Cisco Packet Tracer Logo" width="40" height="40"/>
+  <img src="./assets/cisco.png" alt="Cisco Packet Tracer Logo" width="40" height="40"/>
 </p>
 
 ---
