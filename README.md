@@ -33,6 +33,7 @@ I am a passionate and versatile technology enthusiast with a strong foundation i
 #### Tools for Article Writing:
 <p align="left">
   <img src="./assets/grammarly.png" alt="Grammarly Logo" width="150" height="40"/>
+  <img src="./assets/quillbot.png" alt="Filmora Logo" width="40" height="40"/>
 </p>
 
 #### Video Editing:
