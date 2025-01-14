@@ -31,8 +31,8 @@ I am a passionate and versatile technology enthusiast with a strong foundation i
 </p>
 
 #### Tools for Article Writing:
-<p align="left"> 
-  <img src="https://cdnlogo.com/images/2020/09/grammarly-logo-57206.png" alt="Grammarly Logo" width="40" height="40"/> 
+<p align="left">
+  <img src="https://images.ctfassets.net/1e6ajr2k4140/7DzmwOpJNp1lDTa8k6skZI/475de3f9ab4e17d7a0644f017f641ba2/Grammarly_Primary_Lockup_Dark_BG.png" alt="Grammarly Logo" width="150" height="40"/>
 </p>
 
 #### Video Editing:
