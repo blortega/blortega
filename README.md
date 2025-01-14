@@ -42,5 +42,6 @@ I am a passionate and versatile technology enthusiast with a strong foundation i
 
 ### Connect with me:
 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/blortega)
 [![Gmail Badge](https://img.shields.io/badge/-degracia.edgarlouis@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:degracia.edgarlouis@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-louis-de-gracia-420592345/)
