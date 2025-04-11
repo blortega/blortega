@@ -50,10 +50,8 @@ I am a passionate and versatile technology enthusiast with a strong foundation i
 
 ### GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blortega&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blortega&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blortega&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=blortega&layout=compact&theme=radical)
 
 ---
 
