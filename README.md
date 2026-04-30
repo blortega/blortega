@@ -1,65 +1,39 @@
-# Hi 👋, I'm Edgar
+# Edgar Louis De Gracia
+**Web Developer · Philippines 🇵🇭**
 
-### Digital Craftsman | Developer | Creator
-
----
-
-I am a passionate and versatile technology enthusiast with a strong foundation in the digital world. Over the years, I have gained hands-on experience building websites, applications, and mobile apps, showcasing my ability to create impactful and user-friendly solutions. Beyond development, I enjoy sharing knowledge and insights through writing articles, helping others navigate the evolving tech landscape. Additionally, I have honed my creativity through video editing, blending technical expertise with artistic expression. I am dedicated to empowering others, especially aspiring tech professionals, to thrive in the dynamic technology market.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-louis-de-gracia-420592345/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:degracia.edgarlouis@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-1E3A8A?style=flat-square&logo=google-chrome&logoColor=white)](https://edgarlouis.com) [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/blortega)
 
 ---
 
-### A Bit About Me:
+## Tech Stack
 
-- ⚡ Fun Fact: I blend creativity and technical expertise through video editing!
-- ⚙ Interested in: Web Development, Video Editing, and Article Writing
-- 🚀 Always willing to learn new technologies to stay ahead in the ever-evolving tech world.
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
----
+**CMS & Backend**
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### Languages and Tools:
-
-#### Development Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js Logo" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js Logo" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase Logo" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native Logo" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma Logo" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="40" height="40"/>
-</p>
-
-#### Tools for Article Writing:
-<p align="left">
-  <img src="./assets/quillbot.png" alt="Quillbot Logo" width="40" height="40"/>
-  <img src="./assets/grammarly.png" alt="Grammarly Logo" width="150" height="40"/>
-</p>
-
-#### Video Editing:
-<p align="left">
-  <img src="./assets/filmora.png" alt="Filmora Logo" width="40" height="40"/>
-</p>
-
-#### Networking:
-<p align="left">
-  <img src="./assets/cisco.png" alt="Cisco Packet Tracer Logo" width="40" height="40"/>
-</p>
+**Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
 
 ---
 
-### GitHub Stats:
+## Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blortega&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blortega&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+| Project | Stack | Link |
+|---|---|---|
+| **InnoCare** — Clinic inventory system with voice alerts & live analytics | React · Firebase · Vite | [View →](https://innocare-roan.vercel.app/) |
+| **HAPI Humanist** — Nonprofit organization website | WordPress · Elementor · PHP | [View →](https://hapihumanist.org/) |
+| **SAWO** — Global wellness brand site | WordPress · Avada · PHP | [View →](https://www.sawo.com/) |
+| **Sauna PH** — Philippine distributor, conversion-focused | WordPress · Themify · PHP | [View →](https://sauna.ph/) |
+| **About Sauna** — Content-first sauna wellness blog | WordPress · Elementor | [View →](https://aboutsauna.com/) |
 
 ---
 
-### Connect with me:
+## GitHub Stats
 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/blortega)
-[![Gmail Badge](https://img.shields.io/badge/-degracia.edgarlouis@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:degracia.edgarlouis@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-louis-de-gracia-420592345/)
+![Edgar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blortega&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blortega&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=ffffff)
+
+---
+
+<sub>Open to work · Last updated April 2026</sub>
